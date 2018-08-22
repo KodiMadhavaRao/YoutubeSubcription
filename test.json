@@ -1,0 +1,168 @@
+{
+  "data": {
+    "responseContext": {
+      "serviceTrackingParams": [
+        {
+          "params": [
+            {
+              "key": "Subscribe_rid",
+              "value": "0x2f189f1131841bd2"
+            },
+            {
+              "key": "c",
+              "value": "WEB"
+            },
+            {
+              "key": "cver",
+              "value": "2.20180818"
+            },
+            {
+              "key": "yt_li",
+              "value": "1"
+            }
+          ],
+          "service": "CSI"
+        },
+        {
+          "params": [
+            {
+              "key": "country-type",
+              "value": "B"
+            },
+            {
+              "key": "e",
+              "value": "23710476,23721698,23721898,23729689,23733013,23733751,23737531,23738491,23740493,23744176,23745105,23749835,23751767,23752869,23753283,23755226,23755781,23755886,23756192,23760180,9407610,9449243,9471239,9485000"
+            },
+            {
+              "key": "logged_in",
+              "value": "1"
+            },
+            {
+              "key": "pn",
+              "value": "ServiceAjax"
+            }
+          ],
+          "service": "GFEEDBACK"
+        },
+        {
+          "params": [
+            {
+              "key": "creator_channel_id",
+              "value": "UClamuU1xs6tniOe4CfpHTPA"
+            },
+            {
+              "key": "logged_in",
+              "value": "1"
+            }
+          ],
+          "service": "GUIDED_HELP"
+        },
+        {
+          "params": [
+            {
+              "key": "client.name",
+              "value": "WEB"
+            },
+            {
+              "key": "client.version",
+              "value": "2.20180818"
+            },
+            {
+              "key": "innertube.build.changelist",
+              "value": "209564410"
+            },
+            {
+              "key": "innertube.build.experiments.source_version",
+              "value": "209615163"
+            },
+            {
+              "key": "innertube.build.label",
+              "value": "youtube.ytfe.innertube_20180820_7_RC1"
+            },
+            {
+              "key": "innertube.build.timestamp",
+              "value": "1534845357"
+            },
+            {
+              "key": "innertube.build.variants.checksum",
+              "value": "5ef4da05bcdba0c878331e2293ea6740"
+            },
+            {
+              "key": "innertube.run.job",
+              "value": "ytfe-innertube-replica-only.ytfe"
+            }
+          ],
+          "service": "ECATCHER"
+        }
+      ]
+    },
+    "actions": [
+      {
+        "addToGuideSectionAction": {
+          "handlerData": "GUIDE_ACTION_ADD_TO_SUBSCRIPTIONS",
+          "items": [
+            {
+              "guideEntryRenderer": {
+                "formattedTitle": {
+                  "simpleText": "BollywoodSongs24\/7"
+                },
+                "navigationEndpoint": {
+                  "clickTrackingParams": "CAIQtSwYACITCJjg4MuAgd0CFSDTcwEdCjgBMg==",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                      "url": "\/user\/Ramanchawla89"
+                    }
+                  },
+                  "browseEndpoint": {
+                    "browseId": "UC9zNlppYFHU9GAbGEYdnkzw",
+                    "canonicalBaseUrl": "\/user\/Ramanchawla89"
+                  }
+                },
+                "thumbnail": {
+                  "thumbnails": [
+                    {
+                      "width": 32,
+                      "url": "https:\/\/yt3.ggpht.com\/a-\/ACSszfGDAW16rBb3h5rf2J0EZniHtP7rZszUgrQDew=s88-mo-c-c0xffffffff-rj-k-no",
+                      "height": 32
+                    }
+                  ],
+                  "webThumbnailDetailsExtensionData": {
+                    "excludeFromVpl": true
+                  }
+                },
+                "trackingParams": "CAIQtSwYACITCJjg4MuAgd0CFSDTcwEdCjgBMg==",
+                "entryData": {
+                  "guideEntryData": {
+                    "guideEntryId": "UC9zNlppYFHU9GAbGEYdnkzw"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "openPopupAction": {
+          "popupType": "TOAST",
+          "popup": {
+            "notificationActionRenderer": {
+              "responseText": {
+                "simpleText": "Subscription added"
+              },
+              "trackingParams": "CAEQuWoiEwiY4ODLgIHdAhUg03MBHQo4ATI="
+            }
+          }
+        }
+      },
+      {
+        "updateSubscribeButtonAction": {
+          "subscribed": true,
+          "channelId": "UC9zNlppYFHU9GAbGEYdnkzw"
+        }
+      }
+    ],
+    "trackingParams": "CAAQ2YYDIhMImODgy4CB3QIVINNzAR0KOAEy"
+  },
+  "code": "SUCCESS"
+}
